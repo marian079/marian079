@@ -29,10 +29,5 @@ I am a Computer Science graduate with a dual passion for software development an
 *   **3D & Game Dev:** Developed interactive experiences, including a 3D historical walk-through centered around the Battle of Adamclisi (built with Godot Engine and Blender).
 *   **IT Security:** Active participation in cybersecurity events, including the National Cybersecurity Exercise (CyDEx 25)[cite: 1] and AWS Security Day[cite: 1].
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marian079&show_icons=true&theme=radium&hide_border=true" alt="Marian's GitHub Stats" />
-</p>
-
 ### 📫 How to reach me
 - 📧 **Email:** [davidov_marian@yahoo.ro](mailto:davidov_marian@yahoo.ro)
