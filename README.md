@@ -7,7 +7,7 @@ I am a Computer Science graduate with a dual passion for software development an
 ### 🚀 About me
 - 🎓 **Education:** BSc in Computer Science and current Master's student in Virtual Environments (UOC)[cite: 1].
 - 💻 **Current Focus:** 3D environments & game development (Godot, Blender), web application integration, and cybersecurity concepts.
-- 🎨 **Creative Side:** Practical experience in graphic design, print preparation, and visual campaign coordination within the university environment as PR Coordinator for the Student League[cite: 1].
+- 🎨 **Creative Side:** Practical experience in graphic design, print preparation, and visual campaign coordination within the university environment as PR Coordinator for LSUOC.
 - 📍 **Location:** Constanța, Romania.
 
 ### 🛠️ Tech Stack & Tools
