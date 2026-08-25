@@ -35,4 +35,4 @@ I am a Computer Science graduate with a dual passion for software development an
 </p>
 
 ### 📫 How to reach me
-- 📧 **Email:** [davidovmarian@yahoo.ro](mailto:davidovmarian@yahoo.ro)
+- 📧 **Email:** [davidov_marian@yahoo.ro](mailto:davidov_marian@yahoo.ro)
